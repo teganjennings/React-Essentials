@@ -1,4 +1,4 @@
-<h1>React Essentials Webpage<h1>
+<h1>React Essentials Webpage</h1>
 <p>Project completed following the following course: React - The Complete Guide 2024 (incl. React Router & Redux)</p>
 <hr />
 <p>Created a webpage that displays some core concepts to use when developing a React Application.</p>
